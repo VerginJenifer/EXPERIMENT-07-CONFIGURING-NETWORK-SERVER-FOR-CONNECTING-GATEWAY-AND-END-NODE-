@@ -20,16 +20,19 @@ Permissioned access and log-ins for network users Gateway access to the Internet
 
  1. login to the network server using login link  https://iot.saveetha.in/
  2. Click on the nework server as shown blow 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1bd434ca-1426-4102-8384-94473483543e)
+ ![iotserver](https://github.com/user-attachments/assets/e4d28d24-fb9e-479a-a799-8ba658dfddd5)
+
  3. click on the add gateway 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/47c2e08d-6598-4437-8b07-f213d6f3b8ac)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/e62ff028-99bc-485e-9808-fbb6e124f8b2)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/a2e3ae58-6402-49e8-8f96-679059c1842c)
+![Screenshot 2024-10-26 112441](https://github.com/user-attachments/assets/3cc58d88-ead8-4d8c-9681-7848ce8edd40)
+
+![Screenshot 2024-10-26 104858](https://github.com/user-attachments/assets/57aeb725-e752-4113-ab8a-7546af3abf76)
 4. click on the lora options , lora - frequency plan 
 5. click on channel s and create a new channel after which you can add a new end device 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1fb72be5-e48d-4cde-a329-0cfb0d29070f)
+![Screenshot 2024-10-26 105220](https://github.com/user-attachments/assets/dcd8ded9-677e-48c6-a4f7-485caf52f603)
+
 6. add the attributesin the end device as  shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/00bff30b-42fc-42d5-9540-285d270e41cb)
+![image](https://github.com/user-attachments/assets/e7636f9f-1fd7-4b6a-8a74-97ac4d2f5d28)
+
 7.using AT commands configure end device in serial port utility
 AT Commands to set initially (Mandatory)
  AT+FDR // To do factory data reset
@@ -47,8 +50,7 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
-
+![image](https://github.com/user-attachments/assets/988c40cf-b4c9-49e4-84e7-8b923dbc498a)
 
 
 
